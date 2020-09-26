@@ -25,6 +25,6 @@ def areParanthesisBalanced(expr):
 
 
 if areParanthesisBalanced("()("):
-    print('Balan')
+    print('Balanced')
 else:
     print("Unbalan")
