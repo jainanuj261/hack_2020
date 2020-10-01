@@ -19,4 +19,4 @@ for _ in range(t):
                 b.append(arr[i])
                 b.append(arr[j+1])
                 a.append(b)
-    pri(len(a))
+    print(len(a))
